@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+body {
+  font-family: Roboto;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  max-width: 1150px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+
+.img {
+  width: 461px;
+  padding-left: 650px;
+  margin-top: -500px;
+}
+
+.container {
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 32px;
+  margin-top: -32px;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+.cloone {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -29px;
+}
+
+.clone {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  height: 48px;
+  width: 165px;
+  border-radius: 31px;
+  background: rgba(245, 138, 7, 0.1);
+  color: #f58a07;
+  border: none;
+}
+
+.value {
+  display: flex;
+  padding-top: 90px;
+  font-size: 50px;
+}
+
+.work {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  height: 55px;
+  width: 165px;
+  border-radius: 31px;
+  background: #f58a07;
+  color: white;
+  border: none;
+}
+
+.with {
+  display: flex;
+  padding-top: 32px;
+  font-size: 45px;
+}
+
+.hero_flex {
+  display: flex;
+}
+
+.energy {
+  display: flex;
+  padding-top: 100px;
+}
+
+.lorem {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -82px;
+}
+
+.vel {
+  padding-top: 46px;
+}
+
+.box {
+  color: #f58a07;
+  font-size: 36px;
+}
+
+.sit {
+  color: #f58a07;
+  font-size: 36px;
+  text-align: center;
+  margin-top: -193px;
+  margin-left: -152px;
+}
+
+.ipsum {
+  padding-left: 443px;
+}
+
+.non {
+  padding-left: 443px;
+}
+
+.emp {
+  margin-top: -129px;
+  margin-left: 889px;
+}
+
+.vero {
+  padding-top: 10px;
+  padding-left: 889px;
+}
+
+.box-1 {
+  position: absolute;
+  color: #f58a07;
+  font-size: 38px;
+  left: 954px;
+  top: 879px;
+}
+
+.only {
+  position: absolute;
+  font-size: 45px;
+  top: 1626px;
+}
+
+.elit {
+  position: absolute;
+  top: 1770px;
+}
+
+.tobe {
+  position: absolute;
+  font-size: 23px;
+  top: 2474px;
+}
+
+.logo {
+  position: absolute;
+  padding-left: 645px;
+  top: 1177px;
+}
+
+.png {
+  position: absolute;
+  width: 415px;
+}
+
+.hero-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 41px;
+  padding-top: 351px;
+  width: 234px;
+}
+
+.box-2 {
+  width: 255px;
+}
+
+.box-3 {
+  padding-left: 665px;
+  width: 518px;
+  padding-top: 103px;
+}
+
+.png-1 {
+  position: absolute;
+  margin-top: -117px;
+}
+
+.neo {
+  position: absolute;
+  left: 165px;
+  margin-top: -100px;
+}
+
+.at {
+  position: absolute;
+  color: #f58a07;
+  left: 165px;
+  margin-top: -77px;
+}
+
+footer {
+  width: 1200px;
+  height: 463px;
+  background: #063255;
+}
+
+.color {
+  color: white;
+}
+
+.footer-container {
+  padding: 40px 90px;
+}
+
+.best {
+  padding: 40px 20px;
+  color: white;
+}
+
+.golayf {
+  padding-left: 12px;
+  margin-top: 12px;
+}
+
+.all {
+  position: absolute;
+  padding-top: 80px;
+  color: white;
+}
+
+.footer-menu {
+  display: flex;
+  flex-direction: column;
+  margin-top: -340px;
+  margin-left: -121px;
+}
+
+.a {
+  margin: 8px;
+  color: white;
+}
+
+.footer-title {
+  display: flex;
+  flex-direction: column;
+  margin-top: -160px;
+  padding-left: 290px;
+}
+
+.main {
+  margin: 8px;
+  color: white;
+}
+
+.href {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: -400px;
+  color: white;
+}
+
+.footer-hero {
+  margin-top: -100px;
+}
+
+.footer-input {
+  height: 54px;
+  width: 250px;
+  border-radius: 31px;
+}
+
+.type {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -271px;
+}
+
+.foolter {
+  margin-top: -30px;
+}
+
+.btn {
+  height: 54px;
+  width: 156px;
+  border-radius: 31px;
+  background: #F58A07;
+  border: none;
+}
+
+.footer-btn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.enter {
+  padding-top: 1px;
+}
+
+.polise {
+  padding-left: 562px;
+  padding-top: 64px;
+  color: white;
+}
+
+.vas {
+  padding-left: 238px;
+  margin-top: -46px;
+}
